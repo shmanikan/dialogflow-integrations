@@ -31,7 +31,7 @@ app.use(express.json());
 // Upon closure the webhook is removed from spark
 
 // Insert your values here
-const sparkAccessToken ='Place your spark personal access token here';
+const sparkAccessToken ='OWEyMWU1MTQtYzNmYy00MzNiLWI0MDUtOTgxYjNiZjAyMGFiMDlhODU0ZTUtNWYz_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f';
 const targetUrl = 'Place you servers URL here';
 const projectId = 'shivtestbot-ufni';
 
